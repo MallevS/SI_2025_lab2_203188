@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class SILab2Test {
+public class SILab2Test { 
     @Test
     void testEveryStatement() {
         // Test Case 1: Condition is true (price > 300)

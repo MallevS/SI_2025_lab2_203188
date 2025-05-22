@@ -2,7 +2,7 @@ package si_lab2_203188;
 import java.util.List;
 
 class Item {
-    String name;
+    String name; 
     int quantity; //numerical
     int price;
     double discount;
